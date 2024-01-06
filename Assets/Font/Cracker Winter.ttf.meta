@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2b9e7598bee38f64cb15f4d87a2d1445
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cracker Winter
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 94fa7151a2c769f4591003d35b2b952b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
